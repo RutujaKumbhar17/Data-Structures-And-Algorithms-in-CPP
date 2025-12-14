@@ -1,1 +1,22 @@
+# Common patterns for C++ projects
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Build directories
+build/
+Debug/
+Release/
+x64/
+
+# IDE files
+.vs/
+.vscode/
+*.sln
+.vcxproj
 /.vscode
