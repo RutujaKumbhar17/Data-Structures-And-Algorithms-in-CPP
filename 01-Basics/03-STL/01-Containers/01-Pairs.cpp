@@ -1,6 +1,6 @@
 //As  name suggests, used to store two values
 
-#include<bits/stdc++.h>//all libraries are included
+//#include<bits/stdc++.h>//all libraries are included
 #include <iostream>
 using namespace std;
 //#include <utility> //for std::pair
