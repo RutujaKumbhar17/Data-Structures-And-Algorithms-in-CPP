@@ -1,5 +1,6 @@
 //Array has contiguous memory allocation.
 //Array size is fixed,a[]is wrong.
+//maximum array size is a[10^5]
 #include<iostream>
 using namespace std;
 
@@ -16,7 +17,7 @@ int main(){
 
     cout<<"array is"<<endl;
     for(int i=0;i<10;i++){
-        cout<<a[i]<<" ";
+        cout<<a[i]<<" "<<endl;
     }
     cout<<sizeof(a);
     return 0;
